@@ -1,5 +1,6 @@
 from selenium import webdriver
 from time import sleep
+import chromedriver
 selenium_webdrivers = webdriver.Chrome()
 selenium_webdrivers.get('https://mail.google.com/mail')
 

@@ -2,3 +2,6 @@
 __pycache__/
 *.log
 password.txt
+dist/
+build/
+*.spec
